@@ -1,0 +1,308 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,HS,AS,HST,AST,HY,AY,HR,AR,FTR
+SP2,11/08/2023,Amorebieta,Levante,1,1,0,1,11,7,3,2,0,3,0,0,D
+SP2,11/08/2023,Valladolid,Sp Gijon,2,0,1,0,17,11,5,4,5,5,0,0,H
+SP2,12/08/2023,Santander,Eibar,4,0,3,0,11,14,8,3,2,3,0,0,H
+SP2,12/08/2023,Zaragoza,Villarreal B,2,0,0,0,16,11,7,2,2,4,0,0,H
+SP2,12/08/2023,Elche,Ferrol,0,1,0,0,14,10,1,2,0,2,0,0,A
+SP2,13/08/2023,Burgos,Huesca,1,1,1,1,19,4,5,2,2,4,0,0,D
+SP2,13/08/2023,Albacete,Espanol,1,1,0,1,17,8,6,3,3,3,0,0,D
+SP2,13/08/2023,Cartagena,Eldense,0,1,0,1,12,8,2,2,1,1,0,0,A
+SP2,13/08/2023,Leganes,Andorra,0,1,0,1,12,13,4,3,5,1,0,0,A
+SP2,14/08/2023,Mirandes,Alcorcon,4,0,2,0,17,18,6,6,1,1,0,0,H
+SP2,14/08/2023,Tenerife,Oviedo,1,0,1,0,10,7,3,0,6,0,0,0,H
+SP2,18/08/2023,Andorra,Cartagena,3,2,0,0,17,5,5,3,2,4,0,0,H
+SP2,18/08/2023,Zaragoza,Valladolid,1,0,1,0,12,11,5,5,3,2,0,0,H
+SP2,19/08/2023,Eibar,Elche,2,1,1,0,11,13,5,3,1,2,0,0,H
+SP2,19/08/2023,Espanol,Santander,2,0,1,0,20,12,6,2,1,2,0,0,H
+SP2,19/08/2023,Levante,Burgos,3,2,2,1,18,16,11,8,4,3,0,0,H
+SP2,19/08/2023,Alcorcon,Leganes,0,2,0,0,15,7,2,4,3,4,0,0,A
+SP2,20/08/2023,Oviedo,Ferrol,1,1,0,1,16,5,3,1,2,1,0,1,D
+SP2,20/08/2023,Sp Gijon,Mirandes,3,0,3,0,12,22,7,11,2,2,0,0,H
+SP2,20/08/2023,Albacete,Amorebieta,2,2,1,2,18,13,8,3,3,0,0,0,D
+SP2,21/08/2023,Villarreal B,Eldense,3,1,2,1,13,11,6,3,2,1,0,0,H
+SP2,21/08/2023,Huesca,Tenerife,0,2,0,1,12,11,4,5,0,4,0,0,A
+SP2,25/08/2023,Cartagena,Levante,0,1,0,1,9,13,3,5,4,6,0,0,A
+SP2,26/08/2023,Burgos,Oviedo,1,0,1,0,16,9,5,3,4,4,0,1,H
+SP2,26/08/2023,Tenerife,Zaragoza,0,1,0,0,14,7,2,4,3,3,1,0,A
+SP2,26/08/2023,Elche,Villarreal B,1,0,1,0,19,12,8,3,2,0,0,0,H
+SP2,26/08/2023,Valladolid,Alcorcon,0,2,0,1,28,12,2,5,1,4,0,0,A
+SP2,27/08/2023,Ferrol,Sp Gijon,2,0,0,0,13,6,3,1,0,2,0,0,H
+SP2,27/08/2023,Amorebieta,Andorra,3,0,1,0,9,15,4,5,2,1,0,0,H
+SP2,27/08/2023,Mirandes,Espanol,0,1,0,0,5,17,1,4,4,2,0,0,A
+SP2,27/08/2023,Leganes,Albacete,2,0,1,0,11,12,2,3,3,2,0,0,H
+SP2,28/08/2023,Eldense,Eibar,2,1,2,0,7,12,4,2,1,4,0,0,H
+SP2,28/08/2023,Santander,Huesca,0,0,0,0,10,14,0,0,5,5,0,0,D
+SP2,01/09/2023,Alcorcon,Ferrol,1,1,0,0,12,7,3,2,3,1,0,0,D
+SP2,01/09/2023,Albacete,Valladolid,2,0,1,0,9,7,3,1,1,5,0,0,H
+SP2,02/09/2023,Sp Gijon,Burgos,2,1,1,0,17,5,2,2,1,1,0,0,H
+SP2,02/09/2023,Levante,Oviedo,1,1,0,0,17,11,4,2,3,3,0,1,D
+SP2,02/09/2023,Elche,Santander,1,1,1,0,22,12,6,6,0,3,1,0,D
+SP2,02/09/2023,Villarreal B,Cartagena,1,2,1,0,17,12,6,5,2,3,0,0,A
+SP2,03/09/2023,Andorra,Tenerife,0,1,0,0,16,10,2,4,0,3,0,0,A
+SP2,03/09/2023,Eibar,Leganes,0,1,0,1,20,2,2,1,2,3,0,0,A
+SP2,03/09/2023,Espanol,Amorebieta,3,2,0,2,21,7,7,4,3,1,0,0,H
+SP2,03/09/2023,Zaragoza,Eldense,2,0,1,0,13,8,1,3,2,1,0,0,H
+SP2,03/09/2023,Huesca,Mirandes,1,1,0,0,15,13,3,3,5,5,1,0,D
+SP2,08/09/2023,Levante,Espanol,1,4,1,2,15,17,3,10,0,0,1,0,A
+SP2,09/09/2023,Burgos,Eibar,1,0,0,0,6,14,3,2,2,4,0,1,H
+SP2,09/09/2023,Oviedo,Sp Gijon,0,0,0,0,6,7,0,1,2,3,0,0,D
+SP2,09/09/2023,Leganes,Huesca,2,0,1,0,11,8,7,3,0,2,0,0,H
+SP2,09/09/2023,Tenerife,Albacete,2,0,2,0,10,14,4,4,2,1,0,0,H
+SP2,10/09/2023,Ferrol,Villarreal B,2,2,0,1,24,6,8,3,3,2,0,0,D
+SP2,10/09/2023,Santander,Amorebieta,1,0,1,0,7,7,4,2,4,2,0,0,H
+SP2,10/09/2023,Cartagena,Zaragoza,1,3,1,2,19,9,5,5,2,2,0,0,A
+SP2,10/09/2023,Mirandes,Andorra,4,3,2,0,17,25,6,7,1,3,0,0,H
+SP2,10/09/2023,Valladolid,Elche,1,1,1,0,14,8,5,3,6,2,1,1,D
+SP2,11/09/2023,Eldense,Alcorcon,2,2,0,0,17,13,3,4,0,3,0,1,D
+SP2,15/09/2023,Zaragoza,Santander,1,1,1,1,6,12,2,4,2,5,0,0,D
+SP2,16/09/2023,Huesca,Villarreal B,2,2,0,2,8,7,2,3,5,3,0,0,D
+SP2,16/09/2023,Alcorcon,Levante,0,2,0,1,10,21,1,5,6,3,1,0,A
+SP2,16/09/2023,Valladolid,Cartagena,1,0,0,0,22,9,8,4,3,1,0,0,H
+SP2,16/09/2023,Albacete,Burgos,2,1,1,0,19,12,5,3,1,2,0,0,H
+SP2,17/09/2023,Amorebieta,Mirandes,2,0,2,0,7,10,2,2,3,2,0,0,H
+SP2,17/09/2023,Eibar,Ferrol,2,0,1,0,13,8,6,1,0,2,0,0,H
+SP2,17/09/2023,Elche,Leganes,1,0,1,0,18,9,5,3,5,3,0,0,H
+SP2,17/09/2023,Espanol,Eldense,3,3,0,2,23,6,5,3,3,4,0,1,D
+SP2,17/09/2023,Sp Gijon,Tenerife,2,1,1,1,10,8,4,1,2,5,0,0,H
+SP2,18/09/2023,Andorra,Oviedo,1,0,0,0,5,6,1,2,1,4,1,1,H
+SP2,22/09/2023,Cartagena,Eibar,1,2,0,1,7,11,4,5,2,5,1,0,A
+SP2,23/09/2023,Andorra,Sp Gijon,0,0,0,0,13,6,5,2,0,1,0,0,D
+SP2,23/09/2023,Levante,Eldense,2,0,1,0,17,10,7,2,1,2,0,0,H
+SP2,23/09/2023,Burgos,Elche,4,0,2,0,16,12,9,1,3,1,0,0,H
+SP2,23/09/2023,Alcorcon,Huesca,0,2,0,2,19,6,3,2,2,1,0,0,A
+SP2,23/09/2023,Santander,Albacete,2,1,2,0,8,18,3,4,2,3,0,0,H
+SP2,24/09/2023,Villarreal B,Amorebieta,3,1,1,0,19,14,8,4,2,4,0,0,H
+SP2,24/09/2023,Oviedo,Valladolid,0,1,0,0,10,16,3,5,1,3,0,0,A
+SP2,24/09/2023,Mirandes,Leganes,1,3,1,1,12,10,6,5,1,1,0,0,A
+SP2,25/09/2023,Ferrol,Zaragoza,1,0,0,0,7,6,3,2,1,0,0,0,H
+SP2,25/09/2023,Tenerife,Espanol,1,0,1,0,14,18,6,2,3,3,0,0,H
+SP2,29/09/2023,Leganes,Santander,2,1,1,0,9,16,4,2,4,3,0,0,H
+SP2,30/09/2023,Eibar,Tenerife,3,0,0,0,14,8,5,2,3,1,0,0,H
+SP2,30/09/2023,Elche,Levante,0,0,0,0,28,10,4,2,1,1,0,0,D
+SP2,30/09/2023,Albacete,Andorra,3,1,2,0,12,11,7,2,2,2,0,0,H
+SP2,30/09/2023,Villarreal B,Alcorcon,2,2,1,2,25,10,8,5,2,3,0,0,D
+SP2,01/10/2023,Eldense,Oviedo,1,3,0,3,10,10,4,4,1,0,0,0,A
+SP2,01/10/2023,Amorebieta,Cartagena,0,0,0,0,5,8,2,1,2,2,0,0,D
+SP2,01/10/2023,Valladolid,Burgos,3,0,2,0,11,11,6,2,2,2,0,0,H
+SP2,01/10/2023,Zaragoza,Mirandes,0,1,0,0,8,8,2,0,2,4,1,0,A
+SP2,01/10/2023,Huesca,Sp Gijon,0,1,0,0,6,13,2,6,6,5,0,0,A
+SP2,02/10/2023,Espanol,Ferrol,3,0,1,0,10,6,3,2,2,2,0,1,H
+SP2,03/10/2023,Alcorcon,Albacete,1,2,0,1,23,9,6,4,0,6,0,0,A
+SP2,03/10/2023,Levante,Villarreal B,1,1,0,0,15,7,4,1,2,2,0,0,D
+SP2,03/10/2023,Tenerife,Santander,2,0,0,0,21,9,6,3,1,4,0,0,H
+SP2,04/10/2023,Eldense,Valladolid,0,1,0,1,4,8,0,2,1,4,0,0,A
+SP2,04/10/2023,Oviedo,Huesca,1,0,0,0,9,9,6,3,2,2,0,0,H
+SP2,04/10/2023,Burgos,Leganes,1,0,1,0,5,12,3,2,5,3,0,1,H
+SP2,04/10/2023,Sp Gijon,Elche,2,0,2,0,20,10,8,1,0,0,0,0,H
+SP2,05/10/2023,Andorra,Zaragoza,0,1,0,1,5,5,0,3,2,4,1,0,A
+SP2,05/10/2023,Mirandes,Eibar,1,3,1,1,7,13,3,3,2,2,0,0,A
+SP2,05/10/2023,Cartagena,Espanol,0,2,0,1,10,8,1,4,4,3,0,0,A
+SP2,05/10/2023,Ferrol,Amorebieta,1,0,1,0,11,4,3,2,1,1,0,0,H
+SP2,06/10/2023,Albacete,Levante,0,2,0,1,14,10,4,7,0,1,0,0,A
+SP2,07/10/2023,Huesca,Eldense,0,1,0,0,17,15,1,3,1,6,1,0,A
+SP2,07/10/2023,Santander,Sp Gijon,3,2,1,1,20,21,7,8,4,4,0,0,H
+SP2,07/10/2023,Leganes,Oviedo,0,0,0,0,9,6,3,2,3,1,0,0,D
+SP2,08/10/2023,Amorebieta,Eibar,1,2,1,1,10,12,7,7,3,1,0,0,A
+SP2,08/10/2023,Valladolid,Mirandes,3,2,0,0,23,6,9,3,2,3,0,0,H
+SP2,08/10/2023,Ferrol,Cartagena,1,1,0,1,12,11,5,4,0,5,0,0,D
+SP2,08/10/2023,Tenerife,Burgos,2,1,0,0,8,14,2,6,3,4,1,0,H
+SP2,08/10/2023,Zaragoza,Alcorcon,0,2,0,1,15,11,5,2,5,4,0,0,A
+SP2,09/10/2023,Elche,Andorra,2,1,1,0,24,4,9,1,0,0,0,0,H
+SP2,09/10/2023,Villarreal B,Espanol,3,1,2,1,17,16,7,4,1,4,0,0,H
+SP2,13/10/2023,Oviedo,Albacete,3,0,0,0,9,12,3,2,1,4,0,1,H
+SP2,14/10/2023,Mirandes,Tenerife,1,1,1,1,9,9,3,4,3,3,0,0,D
+SP2,14/10/2023,Cartagena,Santander,2,3,2,2,22,20,6,10,2,4,0,0,A
+SP2,14/10/2023,Sp Gijon,Zaragoza,2,2,0,1,13,13,4,3,3,2,0,0,D
+SP2,14/10/2023,Espanol,Valladolid,2,0,2,0,5,11,3,3,3,3,0,0,H
+SP2,15/10/2023,Burgos,Villarreal B,3,2,0,0,11,12,4,3,0,4,0,0,H
+SP2,15/10/2023,Andorra,Alcorcon,2,0,0,0,12,12,3,3,0,1,0,0,H
+SP2,15/10/2023,Eldense,Elche,1,1,1,0,9,6,2,2,4,3,0,0,D
+SP2,15/10/2023,Eibar,Huesca,1,1,0,1,14,5,2,2,1,3,0,0,D
+SP2,15/10/2023,Leganes,Amorebieta,6,0,2,0,17,8,10,1,1,2,0,0,H
+SP2,16/10/2023,Levante,Ferrol,1,0,0,0,9,13,4,1,4,1,0,0,H
+SP2,20/10/2023,Espanol,Leganes,0,1,0,0,12,13,3,4,2,4,0,0,A
+SP2,21/10/2023,Amorebieta,Oviedo,0,0,0,0,9,15,1,2,3,4,1,0,D
+SP2,21/10/2023,Villarreal B,Mirandes,0,3,0,1,15,7,3,3,1,1,0,0,A
+SP2,21/10/2023,Tenerife,Levante,0,0,0,0,17,8,4,1,3,2,0,0,D
+SP2,21/10/2023,Zaragoza,Eibar,2,3,2,0,13,10,5,6,4,3,0,0,A
+SP2,22/10/2023,Ferrol,Eldense,1,1,0,0,14,11,3,3,0,2,0,0,D
+SP2,22/10/2023,Huesca,Elche,0,1,0,1,7,4,1,3,3,3,0,0,A
+SP2,22/10/2023,Albacete,Sp Gijon,1,3,0,1,25,8,6,4,3,3,0,0,A
+SP2,22/10/2023,Santander,Burgos,3,0,1,0,17,12,5,2,1,3,0,0,H
+SP2,22/10/2023,Valladolid,Andorra,2,0,2,0,10,16,4,4,5,2,0,0,H
+SP2,23/10/2023,Alcorcon,Cartagena,1,1,1,0,18,16,2,6,1,3,0,0,D
+SP2,27/10/2023,Eibar,Valladolid,5,1,2,0,23,10,13,2,1,0,0,0,H
+SP2,28/10/2023,Eldense,Amorebieta,2,0,1,0,12,11,4,3,1,2,0,0,H
+SP2,28/10/2023,Andorra,Levante,2,0,0,0,21,7,10,1,2,3,0,0,H
+SP2,28/10/2023,Sp Gijon,Espanol,2,0,1,0,9,17,3,4,6,3,0,0,H
+SP2,28/10/2023,Elche,Tenerife,2,1,0,0,9,8,4,1,0,6,0,0,H
+SP2,29/10/2023,Mirandes,Cartagena,2,1,0,0,13,14,4,5,0,3,0,0,H
+SP2,29/10/2023,Huesca,Albacete,0,0,0,0,8,8,1,5,1,1,0,0,D
+SP2,29/10/2023,Leganes,Villarreal B,1,0,0,0,10,8,5,3,2,2,0,1,H
+SP2,29/10/2023,Oviedo,Alcorcon,2,0,1,0,12,6,4,3,1,5,0,0,H
+SP2,29/10/2023,Santander,Ferrol,1,3,1,2,11,17,5,8,1,5,0,0,A
+SP2,30/10/2023,Burgos,Zaragoza,1,1,0,1,10,8,2,5,2,2,0,0,D
+SP2,03/11/2023,Espanol,Eibar,2,2,1,1,13,13,5,4,1,1,0,0,D
+SP2,04/11/2023,Villarreal B,Sp Gijon,0,3,0,1,22,10,6,6,0,0,0,0,A
+SP2,04/11/2023,Levante,Mirandes,2,2,1,1,10,10,5,4,4,3,2,0,D
+SP2,04/11/2023,Valladolid,Tenerife,2,0,0,0,16,6,6,1,1,3,0,0,H
+SP2,04/11/2023,Albacete,Elche,1,1,0,0,14,5,5,3,4,6,0,1,D
+SP2,05/11/2023,Ferrol,Andorra,1,0,1,0,11,12,4,5,4,3,0,0,H
+SP2,05/11/2023,Amorebieta,Huesca,0,1,0,0,7,8,0,3,3,2,1,0,A
+SP2,05/11/2023,Alcorcon,Santander,3,1,1,0,17,10,6,3,3,1,0,0,H
+SP2,05/11/2023,Cartagena,Leganes,0,3,0,0,11,8,1,5,1,2,0,0,A
+SP2,05/11/2023,Eldense,Burgos,2,0,1,0,15,9,5,2,2,2,0,0,H
+SP2,06/11/2023,Zaragoza,Oviedo,0,0,0,0,19,13,5,2,1,1,0,0,D
+SP2,10/11/2023,Leganes,Levante,2,1,0,1,10,9,5,3,2,1,0,0,H
+SP2,11/11/2023,Santander,Valladolid,2,3,0,1,14,19,6,9,0,2,0,0,A
+SP2,11/11/2023,Elche,Zaragoza,2,0,0,0,13,8,4,3,4,2,0,0,H
+SP2,11/11/2023,Mirandes,Ferrol,1,2,0,2,17,10,7,3,1,1,0,0,A
+SP2,11/11/2023,Sp Gijon,Amorebieta,1,1,0,0,16,10,8,4,1,5,0,0,D
+SP2,12/11/2023,Burgos,Alcorcon,4,2,0,2,15,9,7,3,1,0,0,0,H
+SP2,12/11/2023,Andorra,Eldense,1,3,1,1,23,9,6,5,2,3,0,0,A
+SP2,12/11/2023,Huesca,Espanol,1,1,0,0,19,6,5,1,2,4,0,0,D
+SP2,12/11/2023,Tenerife,Villarreal B,0,1,0,1,20,13,5,6,3,5,0,1,A
+SP2,12/11/2023,Eibar,Albacete,1,1,1,0,12,16,6,6,1,1,0,0,D
+SP2,13/11/2023,Oviedo,Cartagena,1,1,0,1,18,2,3,1,4,8,0,0,D
+SP2,17/11/2023,Valladolid,Leganes,1,1,1,0,21,11,3,3,1,3,0,0,D
+SP2,18/11/2023,Alcorcon,Sp Gijon,0,0,0,0,15,16,2,2,2,2,0,0,D
+SP2,18/11/2023,Amorebieta,Tenerife,2,0,1,0,5,23,3,6,1,4,1,1,H
+SP2,18/11/2023,Zaragoza,Huesca,0,2,0,1,11,7,3,3,2,3,0,0,A
+SP2,18/11/2023,Espanol,Elche,2,0,2,0,12,15,5,3,3,2,0,0,H
+SP2,19/11/2023,Ferrol,Burgos,1,1,0,0,13,9,5,2,1,5,0,0,D
+SP2,19/11/2023,Eldense,Mirandes,2,2,1,1,20,7,6,3,1,1,0,0,D
+SP2,19/11/2023,Oviedo,Eibar,2,1,0,1,9,7,3,2,4,3,0,0,H
+SP2,19/11/2023,Cartagena,Albacete,1,1,1,0,9,18,2,2,1,2,0,0,D
+SP2,19/11/2023,Villarreal B,Andorra,0,0,0,0,12,15,2,5,2,1,0,0,D
+SP2,20/11/2023,Levante,Santander,2,4,2,1,26,9,5,5,2,1,0,0,A
+SP2,24/11/2023,Huesca,Valladolid,0,1,0,0,10,11,2,5,4,4,0,0,A
+SP2,25/11/2023,Burgos,Andorra,0,0,0,0,11,7,2,1,1,1,0,0,D
+SP2,25/11/2023,Santander,Villarreal B,2,0,1,0,10,7,4,0,3,4,0,0,H
+SP2,25/11/2023,Albacete,Zaragoza,1,0,0,0,18,5,5,2,2,2,0,0,H
+SP2,25/11/2023,Eibar,Levante,3,1,1,1,20,12,7,7,3,1,0,0,H
+SP2,26/11/2023,Leganes,Ferrol,2,2,2,2,22,3,5,3,1,2,0,1,D
+SP2,26/11/2023,Elche,Amorebieta,2,0,0,0,11,11,4,4,2,2,0,0,H
+SP2,26/11/2023,Mirandes,Oviedo,2,1,1,0,10,8,6,2,3,3,0,0,H
+SP2,26/11/2023,Tenerife,Cartagena,1,1,0,1,15,7,5,3,3,4,0,0,D
+SP2,26/11/2023,Espanol,Alcorcon,2,0,1,0,24,6,9,2,2,2,0,1,H
+SP2,27/11/2023,Sp Gijon,Eldense,2,0,1,0,17,13,7,3,1,2,0,0,H
+SP2,01/12/2023,Oviedo,Espanol,2,0,1,0,16,7,5,2,5,3,0,0,H
+SP2,02/12/2023,Cartagena,Sp Gijon,1,0,0,0,19,6,10,1,1,3,0,0,H
+SP2,02/12/2023,Eldense,Tenerife,0,3,0,1,13,4,1,3,1,1,0,0,A
+SP2,02/12/2023,Zaragoza,Leganes,1,0,1,0,10,5,2,0,2,1,0,0,H
+SP2,02/12/2023,Levante,Valladolid,2,1,2,1,19,11,7,3,4,3,0,0,H
+SP2,03/12/2023,Andorra,Huesca,1,0,0,0,8,8,4,1,2,2,0,0,H
+SP2,03/12/2023,Alcorcon,Elche,0,2,0,1,10,22,2,9,3,1,1,0,A
+SP2,03/12/2023,Ferrol,Albacete,5,4,1,1,17,18,6,7,2,3,0,1,H
+SP2,03/12/2023,Mirandes,Santander,0,0,0,0,13,12,5,3,4,4,0,0,D
+SP2,03/12/2023,Amorebieta,Burgos,0,1,0,1,14,6,3,4,2,0,0,0,A
+SP2,04/12/2023,Villarreal B,Eibar,1,0,0,0,26,6,8,0,1,0,0,1,H
+SP2,08/12/2023,Albacete,Villarreal B,2,0,0,0,18,7,5,1,2,2,0,0,H
+SP2,08/12/2023,Espanol,Zaragoza,1,1,0,0,8,10,1,2,2,3,1,0,D
+SP2,09/12/2023,Valladolid,Amorebieta,2,1,0,1,12,7,6,3,1,3,0,0,H
+SP2,09/12/2023,Sp Gijon,Levante,0,0,0,0,12,8,3,2,7,4,1,0,D
+SP2,09/12/2023,Burgos,Mirandes,0,0,0,0,11,5,2,1,3,4,0,0,D
+SP2,10/12/2023,Elche,Cartagena,1,2,1,0,12,7,2,4,3,4,0,0,A
+SP2,10/12/2023,Santander,Oviedo,2,2,1,2,10,16,5,3,4,3,0,0,D
+SP2,10/12/2023,Eibar,Andorra,2,2,2,1,15,16,4,5,5,3,1,0,D
+SP2,10/12/2023,Leganes,Eldense,1,1,1,1,12,6,3,1,4,3,0,0,D
+SP2,10/12/2023,Huesca,Ferrol,1,0,1,0,11,11,5,0,1,3,0,0,H
+SP2,11/12/2023,Tenerife,Alcorcon,1,0,0,0,14,11,5,2,1,5,0,0,H
+SP2,15/12/2023,Oviedo,Elche,3,2,1,2,11,18,6,5,2,4,0,0,H
+SP2,16/12/2023,Eldense,Santander,3,3,0,2,13,8,6,4,2,2,0,0,D
+SP2,16/12/2023,Andorra,Espanol,1,1,0,0,14,6,3,1,1,4,0,0,D
+SP2,16/12/2023,Cartagena,Burgos,0,3,0,1,9,10,1,5,5,1,0,0,A
+SP2,16/12/2023,Sp Gijon,Leganes,1,1,0,1,17,8,3,2,3,3,0,0,D
+SP2,16/12/2023,Mirandes,Albacete,2,0,1,0,12,11,3,3,2,2,0,0,H
+SP2,17/12/2023,Alcorcon,Eibar,1,0,1,0,6,18,3,7,1,2,0,0,H
+SP2,17/12/2023,Levante,Huesca,2,1,2,0,12,5,6,1,2,3,0,1,H
+SP2,17/12/2023,Amorebieta,Zaragoza,1,1,1,1,18,10,7,6,5,1,0,0,D
+SP2,17/12/2023,Ferrol,Tenerife,3,1,1,0,18,5,7,2,2,2,0,0,H
+SP2,18/12/2023,Villarreal B,Valladolid,1,0,1,0,11,17,3,5,1,4,0,0,H
+SP2,19/12/2023,Albacete,Eldense,1,1,0,0,9,12,1,2,1,4,0,1,D
+SP2,19/12/2023,Santander,Andorra,2,0,1,0,17,9,12,3,5,4,0,1,H
+SP2,19/12/2023,Elche,Mirandes,0,0,0,0,17,4,1,0,2,3,0,0,D
+SP2,19/12/2023,Espanol,Burgos,3,3,1,2,14,12,7,6,3,2,0,0,D
+SP2,20/12/2023,Zaragoza,Levante,2,2,2,0,16,9,4,5,2,2,0,0,D
+SP2,20/12/2023,Eibar,Sp Gijon,1,1,0,1,15,7,4,4,3,3,0,0,D
+SP2,20/12/2023,Leganes,Tenerife,1,1,0,0,5,6,3,3,2,3,0,0,D
+SP2,21/12/2023,Huesca,Cartagena,3,0,3,0,7,12,6,4,0,1,0,0,H
+SP2,21/12/2023,Villarreal B,Oviedo,1,1,1,0,15,12,6,2,1,4,0,1,D
+SP2,21/12/2023,Amorebieta,Alcorcon,1,2,1,1,7,12,2,5,3,4,0,0,A
+SP2,21/12/2023,Valladolid,Ferrol,0,1,0,1,15,10,3,2,1,3,0,0,A
+SP2,12/01/2024,Eibar,Santander,2,0,1,0,14,9,6,2,2,1,0,0,H
+SP2,13/01/2024,Alcorcon,Mirandes,0,0,0,0,14,12,2,2,0,1,0,0,D
+SP2,13/01/2024,Levante,Albacete,3,2,2,0,13,11,8,4,1,0,0,0,H
+SP2,13/01/2024,Oviedo,Amorebieta,1,1,1,1,15,14,3,4,0,1,0,0,D
+SP2,13/01/2024,Tenerife,Elche,0,1,0,1,10,7,2,3,4,2,0,0,A
+SP2,13/01/2024,Burgos,Valladolid,1,0,1,0,7,20,2,2,5,2,0,0,H
+SP2,13/01/2024,Ferrol,Espanol,0,0,0,0,6,8,1,1,2,3,0,0,D
+SP2,14/01/2024,Andorra,Leganes,2,3,0,0,18,6,6,4,4,1,0,0,A
+SP2,14/01/2024,Cartagena,Villarreal B,4,1,0,1,19,11,6,2,3,2,0,0,H
+SP2,14/01/2024,Sp Gijon,Huesca,0,0,0,0,11,9,2,4,2,2,0,0,D
+SP2,15/01/2024,Eldense,Zaragoza,1,1,1,1,14,4,4,2,3,4,0,0,D
+SP2,20/01/2024,Albacete,Alcorcon,0,1,0,0,16,15,2,3,2,4,0,0,A
+SP2,20/01/2024,Amorebieta,Eldense,0,2,0,1,10,12,1,7,1,2,0,0,A
+SP2,20/01/2024,Zaragoza,Andorra,2,0,1,0,11,8,6,3,2,1,0,0,H
+SP2,20/01/2024,Espanol,Villarreal B,2,1,2,1,9,11,4,3,2,2,0,0,H
+SP2,20/01/2024,Tenerife,Sp Gijon,1,2,1,1,11,11,2,6,2,3,0,0,A
+SP2,20/01/2024,Ferrol,Oviedo,1,3,0,0,9,17,3,9,2,2,0,0,A
+SP2,21/01/2024,Santander,Cartagena,0,2,0,1,14,8,3,4,3,3,2,0,A
+SP2,21/01/2024,Mirandes,Levante,1,1,0,1,15,9,3,2,2,3,0,0,D
+SP2,21/01/2024,Huesca,Eibar,2,3,0,2,19,14,8,6,1,2,0,0,A
+SP2,21/01/2024,Elche,Valladolid,0,0,0,0,18,3,2,1,2,2,0,0,D
+SP2,22/01/2024,Leganes,Burgos,2,0,2,0,11,13,5,5,0,2,0,0,H
+SP2,26/01/2024,Eibar,Mirandes,1,0,0,0,20,11,7,3,1,2,0,0,H
+SP2,27/01/2024,Alcorcon,Zaragoza,0,0,0,0,9,5,2,1,0,1,0,0,D
+SP2,27/01/2024,Cartagena,Amorebieta,1,0,0,0,10,9,4,3,3,4,0,0,H
+SP2,27/01/2024,Oviedo,Leganes,1,0,0,0,12,5,6,2,4,2,0,0,H
+SP2,27/01/2024,Levante,Tenerife,0,0,0,0,8,8,3,0,1,3,0,1,D
+SP2,28/01/2024,Eldense,Espanol,3,2,2,2,14,5,5,1,2,2,0,0,H
+SP2,28/01/2024,Andorra,Elche,0,1,0,0,10,14,5,6,3,3,0,0,A
+SP2,28/01/2024,Villarreal B,Huesca,1,1,0,1,16,6,5,2,3,3,0,0,D
+SP2,28/01/2024,Burgos,Albacete,2,1,1,1,20,9,5,4,1,1,0,0,H
+SP2,28/01/2024,Sp Gijon,Ferrol,1,2,0,0,13,12,3,4,1,4,0,0,A
+SP2,29/01/2024,Valladolid,Santander,3,1,1,0,12,8,7,4,2,2,1,0,H
+SP2,02/02/2024,Elche,Burgos,2,0,0,0,16,6,8,2,2,0,0,0,H
+SP2,03/02/2024,Albacete,Cartagena,1,1,1,0,5,11,2,2,3,1,0,0,D
+SP2,03/02/2024,Huesca,Alcorcon,1,0,0,0,11,8,3,4,1,2,0,0,H
+SP2,03/02/2024,Mirandes,Villarreal B,3,0,1,0,13,4,6,0,1,1,0,0,H
+SP2,03/02/2024,Leganes,Valladolid,0,0,0,0,9,10,1,0,2,3,0,0,D
+SP2,03/02/2024,Tenerife,Andorra,0,0,0,0,12,9,1,3,5,2,0,0,D
+SP2,04/02/2024,Ferrol,Eibar,1,1,0,0,10,6,3,3,5,2,0,0,D
+SP2,04/02/2024,Amorebieta,Santander,0,1,0,1,10,8,3,1,3,3,0,0,A
+SP2,04/02/2024,Oviedo,Eldense,1,1,0,1,27,7,9,2,1,5,0,1,D
+SP2,04/02/2024,Espanol,Levante,2,1,1,0,9,16,3,5,3,3,0,0,H
+SP2,05/02/2024,Zaragoza,Sp Gijon,3,0,1,0,13,8,5,2,1,3,0,0,H
+SP2,09/02/2024,Levante,Leganes,0,0,0,0,12,11,3,2,1,6,0,0,D
+SP2,10/02/2024,Amorebieta,Elche,1,0,0,0,8,19,2,4,0,0,0,0,H
+SP2,10/02/2024,Eldense,Huesca,0,0,0,0,8,9,0,4,2,1,0,0,D
+SP2,10/02/2024,Sp Gijon,Oviedo,1,0,1,0,12,13,5,3,3,3,0,0,H
+SP2,10/02/2024,Santander,Espanol,2,0,2,0,10,10,5,1,1,0,0,0,H
+SP2,11/02/2024,Villarreal B,Tenerife,1,0,0,0,10,4,3,0,3,6,0,1,H
+SP2,11/02/2024,Alcorcon,Andorra,1,0,1,0,7,13,1,3,3,1,0,0,H
+SP2,11/02/2024,Cartagena,Mirandes,1,0,1,0,6,18,2,4,6,1,0,0,H
+SP2,11/02/2024,Eibar,Zaragoza,1,0,1,0,10,13,4,1,2,0,0,0,H
+SP2,11/02/2024,Burgos,Ferrol,2,0,2,0,8,16,5,6,0,1,0,0,H
+SP2,12/02/2024,Valladolid,Albacete,0,0,0,0,18,8,2,3,3,3,0,0,D
+SP2,16/02/2024,Zaragoza,Cartagena,1,2,0,1,20,6,6,4,4,5,0,1,A
+SP2,17/02/2024,Andorra,Villarreal B,1,1,0,0,10,5,4,2,4,2,0,0,D
+SP2,17/02/2024,Oviedo,Burgos,5,0,3,0,20,15,11,4,2,0,0,0,H
+SP2,17/02/2024,Sp Gijon,Valladolid,1,1,0,1,11,12,4,5,3,2,0,0,D
+SP2,17/02/2024,Espanol,Mirandes,3,0,1,0,18,4,7,0,2,3,0,0,H
+SP2,18/02/2024,Albacete,Santander,2,0,0,0,15,8,6,1,2,4,0,0,H
+SP2,18/02/2024,Ferrol,Levante,0,0,0,0,6,14,1,3,1,3,1,0,D
+SP2,18/02/2024,Leganes,Alcorcon,3,0,1,0,12,16,6,5,4,4,0,0,H
+SP2,18/02/2024,Huesca,Amorebieta,0,0,0,0,15,7,5,2,2,1,0,0,D
+SP2,18/02/2024,Elche,Eibar,0,0,0,0,30,8,5,3,4,4,0,0,D
+SP2,19/02/2024,Tenerife,Eldense,1,0,1,0,16,6,5,0,3,1,0,0,H
+SP2,23/02/2024,Valladolid,Oviedo,3,0,1,0,13,11,4,3,1,1,0,0,H
+SP2,24/02/2024,Santander,Leganes,2,1,1,1,10,9,3,5,1,4,0,0,H
+SP2,24/02/2024,Eibar,Espanol,2,3,1,0,12,6,4,4,1,2,0,0,A
+SP2,24/02/2024,Villarreal B,Zaragoza,0,0,0,0,13,6,4,1,1,2,0,0,D
+SP2,25/02/2024,Eldense,Ferrol,2,0,2,0,10,10,3,2,3,1,0,0,H
+SP2,25/02/2024,Alcorcon,Tenerife,1,1,0,0,6,12,2,4,2,3,0,0,D
+SP2,25/02/2024,Burgos,Sp Gijon,1,0,1,0,11,7,2,4,6,2,0,0,H
+SP2,25/02/2024,Cartagena,Elche,0,1,0,0,5,25,3,6,2,0,0,0,A
+SP2,25/02/2024,Amorebieta,Albacete,1,1,0,1,21,10,5,0,3,6,0,0,D
+SP2,26/02/2024,Mirandes,Huesca,0,3,0,0,8,10,0,6,3,5,0,0,A
