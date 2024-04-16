@@ -1,0 +1,229 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,HTHG,HTAG,HS,AS,HST,AST,HY,AY,HR,AR,FTR
+SC0,23/07/11,Aberdeen,St Johnstone,0,0,0,0,9,6,4,2,1,2,1,0,D
+SC0,23/07/11,Motherwell,Inverness C,3,0,2,0,12,11,7,2,3,1,0,0,H
+SC0,23/07/11,Rangers,Hearts,1,1,0,1,7,10,4,8,1,1,0,0,D
+SC0,24/07/11,Dundee United,Kilmarnock,1,1,0,0,11,9,4,4,1,1,0,0,D
+SC0,24/07/11,Hibernian,Celtic,0,2,0,1,0,6,0,4,1,0,0,0,A
+SC0,25/07/11,Dunfermline,St Mirren,0,0,0,0,5,16,1,7,3,2,0,0,D
+SC0,30/07/11,Inverness C,Hibernian,0,1,0,0,10,5,2,4,0,1,0,0,A
+SC0,30/07/11,Kilmarnock,Motherwell,0,0,0,0,10,5,4,3,0,0,0,0,D
+SC0,30/07/11,St Johnstone,Rangers,0,2,0,1,10,12,4,10,1,1,0,0,A
+SC0,30/07/11,St Mirren,Aberdeen,1,0,0,0,12,7,5,5,3,4,0,0,H
+SC0,31/07/11,Hearts,Dundee United,0,1,0,1,8,5,2,2,1,1,0,0,A
+SC0,06/08/11,Dundee United,St Mirren,1,1,0,1,26,7,10,4,1,3,0,1,D
+SC0,06/08/11,Dunfermline,Inverness C,3,3,1,0,4,3,3,3,2,3,0,0,D
+SC0,07/08/11,Aberdeen,Celtic,0,1,0,0,6,25,3,13,2,1,0,0,A
+SC0,07/08/11,Motherwell,Hearts,1,0,0,0,12,9,9,6,1,1,1,1,H
+SC0,13/08/11,Celtic,Dundee United,5,1,2,1,17,6,9,3,1,3,0,0,H
+SC0,13/08/11,Hearts,Aberdeen,3,0,2,0,7,7,6,1,1,1,0,0,H
+SC0,13/08/11,Inverness C,Rangers,0,2,0,0,6,8,3,4,2,2,1,1,A
+SC0,13/08/11,St Johnstone,Dunfermline,0,1,0,1,7,5,3,3,1,2,0,1,A
+SC0,13/08/11,St Mirren,Motherwell,0,1,0,0,3,6,3,5,2,2,0,0,A
+SC0,14/08/11,Kilmarnock,Hibernian,4,1,2,1,15,10,8,4,0,3,0,0,H
+SC0,20/08/11,Aberdeen,Inverness C,2,1,2,0,14,11,7,6,0,3,0,0,H
+SC0,20/08/11,Dundee United,Dunfermline,0,1,0,0,7,3,4,1,1,1,0,0,A
+SC0,20/08/11,Hibernian,St Mirren,1,2,1,2,9,6,1,3,1,1,0,0,A
+SC0,21/08/11,Celtic,St Johnstone,0,1,0,0,17,5,7,3,0,3,0,0,A
+SC0,21/08/11,Kilmarnock,Hearts,0,0,0,0,6,12,1,8,0,4,0,0,D
+SC0,21/08/11,Motherwell,Rangers,0,3,0,2,5,16,5,9,1,2,0,0,A
+SC0,27/08/11,Dunfermline,Motherwell,2,4,0,2,8,6,2,4,2,1,0,0,A
+SC0,27/08/11,Inverness C,Kilmarnock,2,1,1,1,11,9,5,4,3,2,0,0,H
+SC0,27/08/11,St Johnstone,Dundee United,3,3,3,1,10,13,7,6,2,0,0,0,D
+SC0,28/08/11,Hearts,Hibernian,2,0,1,0,15,9,7,5,1,5,0,0,H
+SC0,28/08/11,Rangers,Aberdeen,2,0,1,0,15,8,7,4,2,1,0,0,H
+SC0,28/08/11,St Mirren,Celtic,0,2,0,2,13,13,8,7,0,0,0,0,A
+SC0,10/09/11,Celtic,Motherwell,4,0,2,0,16,4,8,1,1,2,0,0,H
+SC0,10/09/11,Dundee United,Rangers,0,1,0,0,13,13,5,6,2,3,1,0,A
+SC0,10/09/11,Inverness C,Hearts,1,1,0,0,6,5,3,3,1,2,0,0,D
+SC0,10/09/11,Kilmarnock,Dunfermline,3,2,2,1,7,6,4,2,1,3,0,0,H
+SC0,10/09/11,St Mirren,St Johnstone,0,0,0,0,10,8,4,1,3,4,0,0,D
+SC0,11/09/11,Hibernian,Aberdeen,0,0,0,0,12,7,7,4,4,1,0,0,D
+SC0,17/09/11,Aberdeen,Kilmarnock,2,2,1,2,12,4,5,3,2,3,0,0,D
+SC0,17/09/11,Dundee United,Inverness C,3,1,2,1,7,8,5,3,1,2,0,0,H
+SC0,17/09/11,Dunfermline,Hibernian,2,2,0,1,11,16,5,10,0,3,0,0,D
+SC0,17/09/11,Hearts,St Mirren,2,0,1,0,5,1,0,1,1,3,0,0,H
+SC0,17/09/11,Motherwell,St Johnstone,0,3,0,1,6,7,3,6,0,2,0,0,A
+SC0,18/09/11,Rangers,Celtic,4,2,1,2,13,6,6,5,0,2,0,1,H
+SC0,24/09/11,Celtic,Inverness C,2,0,2,0,7,4,4,2,0,1,0,0,H
+SC0,24/09/11,Dunfermline,Rangers,0,4,0,2,5,17,4,10,1,0,0,0,A
+SC0,24/09/11,Hibernian,Dundee United,3,3,1,2,9,7,7,4,2,2,0,0,D
+SC0,24/09/11,Motherwell,Aberdeen,1,0,0,0,8,8,5,7,1,2,0,0,H
+SC0,24/09/11,St Mirren,Kilmarnock,3,0,2,0,11,7,5,4,2,3,0,0,H
+SC0,25/09/11,St Johnstone,Hearts,2,0,1,0,6,7,3,4,3,4,0,0,H
+SC0,27/09/11,Rangers,Kilmarnock,2,0,0,0,23,6,9,2,1,3,0,0,H
+SC0,28/09/11,Hibernian,St Johnstone,3,2,2,1,6,10,2,2,1,1,0,0,H
+SC0,30/09/11,Aberdeen,Dunfermline,4,0,3,0,27,6,12,3,0,0,0,0,H
+SC0,01/10/11,Dundee United,Motherwell,1,3,0,2,6,4,3,2,0,0,0,0,A
+SC0,01/10/11,Inverness C,St Mirren,2,1,1,1,9,4,5,3,1,1,0,0,H
+SC0,01/10/11,Kilmarnock,St Johnstone,1,2,1,1,12,7,7,5,1,1,0,0,A
+SC0,01/10/11,Rangers,Hibernian,1,0,0,0,16,10,10,3,1,1,0,0,H
+SC0,02/10/11,Hearts,Celtic,2,0,0,0,7,13,4,7,2,1,0,1,H
+SC0,15/10/11,Aberdeen,Dundee United,3,1,1,0,6,7,3,1,1,2,0,0,H
+SC0,15/10/11,Dunfermline,Hearts,0,2,0,1,1,7,0,4,3,1,0,0,A
+SC0,15/10/11,Hibernian,Motherwell,0,1,0,1,10,10,3,4,2,1,0,0,A
+SC0,15/10/11,Kilmarnock,Celtic,3,3,3,0,11,14,7,8,3,3,0,0,D
+SC0,15/10/11,Rangers,St Mirren,1,1,0,0,19,12,13,6,0,2,0,0,D
+SC0,15/10/11,St Johnstone,Inverness C,2,0,1,0,11,4,5,1,2,1,0,0,H
+SC0,22/10/11,Dundee United,St Johnstone,0,0,0,0,9,1,4,0,2,2,0,0,D
+SC0,22/10/11,Inverness C,Dunfermline,1,1,1,0,10,8,5,2,2,0,0,0,D
+SC0,22/10/11,Motherwell,Kilmarnock,0,0,0,0,9,14,5,7,3,1,0,0,D
+SC0,22/10/11,St Mirren,Hibernian,2,3,2,3,16,7,8,5,1,1,0,0,A
+SC0,23/10/11,Celtic,Aberdeen,2,1,1,0,15,2,7,1,0,5,0,1,H
+SC0,23/10/11,Hearts,Rangers,0,2,0,1,16,7,12,4,4,2,0,0,A
+SC0,29/10/11,Aberdeen,Rangers,1,2,0,0,7,9,5,5,4,2,1,0,A
+SC0,29/10/11,Celtic,Hibernian,0,0,0,0,8,9,4,4,0,1,0,0,D
+SC0,29/10/11,Dunfermline,Dundee United,1,4,0,2,6,15,3,9,2,1,1,0,A
+SC0,29/10/11,Hearts,Kilmarnock,0,1,0,0,19,8,6,3,4,2,1,0,A
+SC0,29/10/11,Inverness C,Motherwell,2,3,1,1,12,5,7,3,1,2,1,0,A
+SC0,29/10/11,St Johnstone,St Mirren,0,1,0,0,9,13,3,4,1,1,0,0,A
+SC0,05/11/11,Hibernian,Dunfermline,0,1,0,1,7,3,4,2,1,2,0,0,A
+SC0,05/11/11,Kilmarnock,Inverness C,3,6,1,1,4,13,3,10,2,2,0,0,A
+SC0,05/11/11,Rangers,Dundee United,3,1,1,0,8,5,5,2,2,1,1,0,H
+SC0,05/11/11,St Mirren,Hearts,0,0,0,0,12,12,6,5,0,0,0,0,D
+SC0,06/11/11,Motherwell,Celtic,1,2,1,1,4,5,3,4,2,1,1,0,A
+SC0,19/11/11,Aberdeen,Motherwell,1,2,1,1,11,3,3,2,0,0,0,0,A
+SC0,19/11/11,Dundee United,Hearts,1,0,1,0,4,7,1,3,4,2,0,0,H
+SC0,19/11/11,Hibernian,Kilmarnock,1,1,0,1,7,16,5,10,3,1,0,0,D
+SC0,19/11/11,Inverness C,Celtic,0,2,0,0,4,9,3,5,3,3,1,0,A
+SC0,19/11/11,Rangers,St Johnstone,0,0,0,0,9,5,7,2,2,3,0,0,D
+SC0,19/11/11,St Mirren,Dunfermline,2,1,2,0,16,7,8,3,1,1,0,0,H
+SC0,23/11/11,Celtic,Dunfermline,2,1,2,0,16,6,7,2,1,0,0,0,H
+SC0,26/11/11,Celtic,St Mirren,5,0,2,0,14,4,10,0,2,1,0,0,H
+SC0,26/11/11,Dunfermline,Aberdeen,3,3,0,1,6,10,5,3,3,3,0,0,D
+SC0,26/11/11,Hearts,Inverness C,2,1,0,0,14,7,12,2,2,1,0,0,H
+SC0,26/11/11,Motherwell,Dundee United,0,0,0,0,5,9,4,7,1,0,0,0,D
+SC0,26/11/11,St Johnstone,Hibernian,3,1,2,1,10,7,4,2,0,1,0,0,H
+SC0,27/11/11,Kilmarnock,Rangers,1,0,0,0,8,10,6,6,1,1,0,0,H
+SC0,03/12/11,Hearts,St Johnstone,1,2,0,1,7,4,4,1,1,2,0,0,A
+SC0,03/12/11,Kilmarnock,Aberdeen,2,0,1,0,3,3,3,2,1,2,0,0,H
+SC0,03/12/11,Rangers,Dunfermline,2,1,2,1,18,7,7,2,1,1,0,0,H
+SC0,03/12/11,St Mirren,Inverness C,1,2,1,1,8,12,4,5,0,2,0,0,A
+SC0,04/12/11,Dundee United,Celtic,0,1,0,1,4,12,1,4,2,0,0,0,A
+SC0,10/12/11,Aberdeen,St Mirren,2,2,2,1,8,8,3,4,4,2,1,0,D
+SC0,10/12/11,Celtic,Hearts,1,0,0,0,8,4,5,1,0,3,0,0,H
+SC0,10/12/11,Hibernian,Rangers,0,2,0,0,8,4,4,2,1,3,0,0,A
+SC0,10/12/11,Inverness C,Dundee United,2,3,1,0,7,4,4,2,2,2,1,0,A
+SC0,10/12/11,St Johnstone,Motherwell,0,3,0,2,10,7,1,4,1,1,0,0,A
+SC0,13/12/11,St Johnstone,Aberdeen,1,2,0,1,12,7,8,4,0,2,0,1,A
+SC0,17/12/11,Aberdeen,Hibernian,1,0,0,0,3,13,1,9,1,3,1,0,H
+SC0,17/12/11,Hearts,Dunfermline,4,0,2,0,16,8,8,2,2,4,0,0,H
+SC0,17/12/11,Kilmarnock,Dundee United,1,1,0,0,9,19,4,7,0,0,0,0,D
+SC0,17/12/11,Motherwell,St Mirren,1,1,0,0,11,16,8,10,5,2,0,0,D
+SC0,17/12/11,Rangers,Inverness C,2,1,0,0,15,11,8,5,3,2,0,0,H
+SC0,18/12/11,St Johnstone,Celtic,0,2,0,0,4,18,3,11,3,1,0,0,A
+SC0,24/12/11,Celtic,Kilmarnock,2,1,1,0,10,5,4,2,1,2,0,0,H
+SC0,24/12/11,Dundee United,Hibernian,3,1,0,1,7,4,4,3,1,4,0,0,H
+SC0,24/12/11,Dunfermline,St Johnstone,0,3,0,1,1,10,0,5,0,0,0,0,A
+SC0,24/12/11,Hearts,Motherwell,2,0,2,0,18,3,9,1,0,2,0,0,H
+SC0,24/12/11,Inverness C,Aberdeen,2,1,0,0,11,5,5,2,2,1,0,0,H
+SC0,24/12/11,St Mirren,Rangers,2,1,2,1,9,6,5,1,2,4,0,2,H
+SC0,28/12/11,Aberdeen,Hearts,0,0,0,0,6,3,1,2,1,0,0,0,D
+SC0,28/12/11,Celtic,Rangers,1,0,0,0,14,6,9,2,1,3,0,0,H
+SC0,28/12/11,Hibernian,Inverness C,1,1,1,1,5,8,2,3,3,2,0,0,D
+SC0,28/12/11,St Johnstone,Kilmarnock,2,0,2,0,12,13,8,6,1,1,0,0,H
+SC0,28/12/11,St Mirren,Dundee United,2,2,2,2,13,12,7,9,0,1,0,0,D
+SC0,02/01/12,Dundee United,Aberdeen,1,2,1,0,12,7,9,4,1,0,0,0,A
+SC0,02/01/12,Dunfermline,Celtic,0,3,0,2,3,8,0,3,2,1,0,0,A
+SC0,02/01/12,Hibernian,Hearts,1,3,0,0,7,14,2,8,4,1,0,0,A
+SC0,02/01/12,Kilmarnock,St Mirren,2,1,1,1,8,10,4,4,1,0,0,0,H
+SC0,02/01/12,Rangers,Motherwell,3,0,1,0,14,4,10,2,2,1,0,0,H
+SC0,14/01/12,Aberdeen,Kilmarnock,0,0,0,0,7,6,1,3,1,1,0,0,D
+SC0,14/01/12,Celtic,Dundee United,2,1,2,0,11,5,8,3,0,2,0,0,H
+SC0,14/01/12,Dunfermline,Hibernian,2,3,1,1,10,9,6,8,2,5,0,0,A
+SC0,14/01/12,Hearts,St Mirren,5,2,2,2,8,10,5,5,1,2,1,0,H
+SC0,14/01/12,Motherwell,Inverness C,0,1,0,0,9,10,2,5,0,0,0,0,A
+SC0,14/01/12,St Johnstone,Rangers,1,2,0,1,6,18,1,11,1,3,0,0,A
+SC0,21/01/12,Dundee United,Motherwell,1,1,1,0,11,9,4,6,1,1,0,0,D
+SC0,21/01/12,Hibernian,St Johnstone,2,3,0,1,10,9,3,3,2,4,0,0,A
+SC0,21/01/12,Inverness C,Hearts,1,0,0,0,9,8,5,3,1,3,0,0,H
+SC0,21/01/12,Kilmarnock,Dunfermline,0,3,0,1,10,8,2,6,0,0,0,0,A
+SC0,21/01/12,Rangers,Aberdeen,1,1,0,0,18,7,8,5,1,3,0,0,D
+SC0,21/01/12,St Mirren,Celtic,0,2,0,0,15,6,6,4,1,2,0,0,A
+SC0,24/01/12,Motherwell,Dunfermline,3,1,1,0,6,9,4,5,3,1,1,0,H
+SC0,28/01/12,Aberdeen,Dunfermline,1,0,1,0,16,3,7,3,0,1,0,0,H
+SC0,28/01/12,Inverness C,St Mirren,0,0,0,0,11,9,2,6,3,2,0,0,D
+SC0,28/01/12,Motherwell,St Johnstone,3,2,1,1,11,17,6,12,1,4,0,0,H
+SC0,28/01/12,Rangers,Hibernian,4,0,1,0,19,9,8,5,1,2,0,1,H
+SC0,07/02/12,Dunfermline,Kilmarnock,1,1,1,1,6,10,3,6,2,0,0,0,D
+SC0,08/02/12,Hearts,Celtic,0,4,0,3,7,12,3,4,4,2,0,0,A
+SC0,11/02/12,Celtic,Inverness C,1,0,1,0,6,3,4,0,0,4,1,1,H
+SC0,11/02/12,Dunfermline,Rangers,1,4,1,2,6,13,4,7,2,1,0,0,A
+SC0,11/02/12,Hibernian,Aberdeen,0,0,0,0,8,5,3,2,1,0,0,0,D
+SC0,11/02/12,Kilmarnock,Hearts,1,1,0,0,5,8,2,3,2,2,1,1,D
+SC0,11/02/12,St Johnstone,Dundee United,1,5,0,1,8,11,2,5,2,2,0,0,A
+SC0,11/02/12,St Mirren,Motherwell,0,0,0,0,9,5,2,2,2,4,0,0,D
+SC0,18/02/12,Dundee United,St Mirren,0,0,0,0,6,3,2,1,1,4,0,0,D
+SC0,18/02/12,Dunfermline,Inverness C,1,1,1,0,8,9,2,3,0,0,0,0,D
+SC0,18/02/12,Motherwell,Hearts,3,0,2,0,13,12,8,6,3,1,1,0,H
+SC0,18/02/12,Rangers,Kilmarnock,0,1,0,1,12,7,7,1,1,2,1,0,A
+SC0,19/02/12,Aberdeen,St Johnstone,0,0,0,0,12,7,2,3,1,3,0,0,D
+SC0,19/02/12,Hibernian,Celtic,0,5,0,2,9,12,1,9,2,1,0,0,A
+SC0,21/02/12,Dundee United,Kilmarnock,4,0,0,0,24,4,12,3,1,3,0,1,H
+SC0,22/02/12,Celtic,Dunfermline,2,0,1,0,27,3,16,3,0,1,0,0,H
+SC0,22/02/12,Motherwell,Hibernian,4,3,0,1,15,10,10,6,2,4,0,0,H
+SC0,25/02/12,Celtic,Motherwell,1,0,0,0,12,2,7,1,1,4,0,0,H
+SC0,25/02/12,Hearts,Dundee United,0,2,0,1,7,6,5,3,2,2,0,0,A
+SC0,25/02/12,Kilmarnock,Hibernian,1,3,0,1,5,7,2,5,1,2,0,0,A
+SC0,25/02/12,St Johnstone,Dunfermline,3,1,2,0,18,4,9,1,0,0,0,0,H
+SC0,25/02/12,St Mirren,Aberdeen,1,1,0,0,6,13,4,5,5,2,0,0,D
+SC0,26/02/12,Inverness C,Rangers,1,4,1,3,7,15,3,11,2,0,0,0,A
+SC0,03/03/12,Aberdeen,Celtic,1,1,1,1,8,7,3,5,1,2,0,0,D
+SC0,03/03/12,Dunfermline,Motherwell,0,2,0,0,7,7,5,4,1,2,0,0,A
+SC0,03/03/12,Hibernian,St Mirren,0,0,0,0,12,6,7,3,2,3,0,0,D
+SC0,03/03/12,Kilmarnock,St Johnstone,0,0,0,0,8,9,2,3,4,2,1,1,D
+SC0,03/03/12,Rangers,Hearts,1,2,1,0,8,4,5,2,4,1,0,0,A
+SC0,05/03/12,Dundee United,Inverness C,3,0,1,0,9,11,5,5,1,4,0,0,H
+SC0,10/03/12,Inverness C,Kilmarnock,1,1,0,1,17,3,8,1,0,0,0,0,D
+SC0,17/03/12,Dundee United,Rangers,2,1,1,0,8,12,4,8,2,4,0,0,H
+SC0,17/03/12,Motherwell,Aberdeen,1,0,1,0,8,11,6,4,2,4,0,0,H
+SC0,17/03/12,St Mirren,St Johnstone,0,3,0,1,7,10,4,7,3,2,0,0,A
+SC0,18/03/12,Hearts,Hibernian,2,0,1,0,10,6,7,3,2,3,0,0,H
+SC0,24/03/12,Aberdeen,Inverness C,0,1,0,1,9,9,3,3,3,2,0,1,A
+SC0,24/03/12,Dunfermline,St Mirren,1,1,0,1,8,11,5,3,5,1,0,0,D
+SC0,24/03/12,Hibernian,Dundee United,0,2,0,0,4,11,2,6,1,0,0,0,A
+SC0,24/03/12,Kilmarnock,Motherwell,2,0,0,0,15,5,9,2,2,3,0,0,H
+SC0,24/03/12,St Johnstone,Hearts,2,1,1,1,6,6,5,2,2,2,0,0,H
+SC0,25/03/12,Rangers,Celtic,3,2,1,0,17,7,11,3,1,0,1,2,H
+SC0,28/03/12,Inverness C,St Johnstone,0,1,0,1,6,6,2,1,1,1,0,0,A
+SC0,31/03/12,Dundee United,Dunfermline,3,0,0,0,9,1,6,0,1,3,0,0,H
+SC0,31/03/12,Hearts,Aberdeen,3,0,1,0,6,6,4,0,1,2,0,0,H
+SC0,31/03/12,Motherwell,Rangers,1,2,1,1,10,15,7,8,2,3,0,0,A
+SC0,31/03/12,St Mirren,Kilmarnock,4,2,1,1,9,9,8,3,0,0,0,0,H
+SC0,01/04/12,Celtic,St Johnstone,2,0,0,0,14,4,8,0,0,3,0,0,H
+SC0,01/04/12,Inverness C,Hibernian,2,3,0,0,7,5,3,5,1,2,0,0,A
+SC0,07/04/12,Aberdeen,Dundee United,3,1,1,1,10,4,8,1,3,0,0,0,H
+SC0,07/04/12,Dunfermline,Hearts,1,2,0,0,7,7,4,6,1,2,0,0,A
+SC0,07/04/12,Kilmarnock,Celtic,0,6,0,4,4,12,2,9,3,1,0,0,A
+SC0,07/04/12,Rangers,St Mirren,3,1,2,0,7,7,4,5,3,4,0,1,H
+SC0,07/04/12,St Johnstone,Inverness C,0,0,0,0,9,6,5,3,2,5,0,0,D
+SC0,08/04/12,Hibernian,Motherwell,1,1,1,0,13,10,5,4,2,3,0,1,D
+SC0,21/04/12,Hearts,Rangers,0,3,0,2,8,6,4,5,1,3,0,0,A
+SC0,21/04/12,Inverness C,Aberdeen,0,2,0,0,11,5,4,1,1,3,0,0,A
+SC0,21/04/12,St Johnstone,Dundee United,0,2,0,1,6,13,6,6,2,1,1,0,A
+SC0,21/04/12,St Mirren,Dunfermline,4,4,2,1,15,15,6,9,1,2,0,0,D
+SC0,22/04/12,Hibernian,Kilmarnock,0,1,0,1,10,1,3,0,3,1,0,0,A
+SC0,22/04/12,Motherwell,Celtic,0,3,0,0,12,18,7,10,0,0,0,0,A
+SC0,28/04/12,Dundee United,Hearts,2,2,1,1,9,12,5,5,1,4,0,0,D
+SC0,28/04/12,Dunfermline,Aberdeen,3,0,0,0,5,5,4,3,0,1,0,0,H
+SC0,28/04/12,Kilmarnock,Inverness C,4,3,1,2,11,7,5,4,1,2,0,1,H
+SC0,28/04/12,Motherwell,St Johnstone,5,1,2,0,13,10,10,6,0,3,0,0,H
+SC0,29/04/12,Celtic,Rangers,3,0,2,0,13,8,8,4,1,2,0,0,H
+SC0,29/04/12,St Mirren,Hibernian,1,0,0,0,8,14,4,7,3,3,1,1,H
+SC0,01/05/12,Hearts,Motherwell,0,1,0,1,12,7,3,5,0,0,0,0,A
+SC0,02/05/12,Aberdeen,Hibernian,1,2,0,2,10,10,3,5,1,0,0,0,A
+SC0,02/05/12,Inverness C,Dunfermline,0,0,0,0,10,5,5,3,1,2,0,0,D
+SC0,02/05/12,Kilmarnock,St Mirren,0,2,0,2,13,8,4,5,3,2,0,0,A
+SC0,02/05/12,Rangers,Dundee United,5,0,3,0,16,5,10,3,1,0,0,0,H
+SC0,03/05/12,Celtic,St Johnstone,1,0,1,0,11,6,6,1,0,1,0,0,H
+SC0,05/05/12,Kilmarnock,Aberdeen,1,1,0,1,9,15,6,8,0,0,0,0,D
+SC0,05/05/12,Rangers,Motherwell,0,0,0,0,16,5,9,2,1,1,0,0,D
+SC0,05/05/12,St Mirren,Inverness C,0,1,0,0,7,6,3,3,1,0,0,0,A
+SC0,06/05/12,Dundee United,Celtic,1,0,1,0,1,6,1,5,1,1,0,0,H
+SC0,06/05/12,Hearts,St Johnstone,2,0,1,0,13,6,5,1,1,3,0,0,H
+SC0,07/05/12,Hibernian,Dunfermline,4,0,3,0,9,12,5,8,0,3,0,0,H
+SC0,12/05/12,Aberdeen,St Mirren,0,0,0,0,5,3,4,2,2,3,0,0,D
+SC0,12/05/12,Dunfermline,Kilmarnock,1,2,1,0,5,19,4,9,1,1,0,0,A
+SC0,12/05/12,Inverness C,Hibernian,2,0,0,0,8,3,3,3,0,2,0,0,H
+SC0,13/05/12,Celtic,Hearts,5,0,3,0,12,3,8,2,1,1,0,0,H
+SC0,13/05/12,Motherwell,Dundee United,0,2,0,1,10,16,2,7,3,2,0,0,A
+SC0,13/05/12,St Johnstone,Rangers,0,4,0,1,6,17,2,11,1,1,0,0,A
