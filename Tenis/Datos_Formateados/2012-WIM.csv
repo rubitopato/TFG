@@ -1,0 +1,128 @@
+Tournament,Date,Series,Court,Surface,Round,P,S,PRank,SRank,PPts,SPts,P1,S1,P2,S2,P3,S3,P4,S4,P5,S5,Psets,Ssets,Gana_P
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Muller G.,Benneteau J.,53.0,32.0,826.0,1210.0,2.0,6.0,5.0,7.0,6.0,7.0,,,,,0.0,3.0,0.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Sweeting R.,Starace P.,130.0,97.0,413.0,558.0,6.0,2.0,2.0,0.0,,,,,,,1.0,0.0,1.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Youzhny M.,Young D.,33.0,51.0,1210.0,834.0,4.0,6.0,6.0,3.0,6.0,2.0,6.0,3.0,,,3.0,1.0,1.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Bemelmans R.,Berlocq C.,131.0,37.0,411.0,1050.0,7.0,5.0,6.0,7.0,6.0,3.0,7.0,6.0,,,3.0,1.0,1.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Kamke T.,Gasquet R.,84.0,19.0,605.0,1600.0,2.0,6.0,2.0,6.0,2.0,6.0,,,,,0.0,3.0,0.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Russell M.,Menendez-Maceiras A.,112.0,212.0,500.0,232.0,6.0,3.0,6.0,1.0,7.0,6.0,,,,,3.0,0.0,1.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Wang J.,Verdasco F.,207.0,16.0,240.0,1765.0,6.0,7.0,4.0,6.0,5.0,7.0,,,,,0.0,3.0,0.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Goodall J.,Zemlja G.,215.0,120.0,229.0,459.0,4.0,6.0,6.0,3.0,6.0,7.0,4.0,6.0,,,1.0,3.0,0.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Chela J.I.,Klizan M.,83.0,62.0,620.0,728.0,5.0,7.0,6.0,3.0,6.0,7.0,6.0,1.0,9.0,11.0,2.0,3.0,0.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Becker B.,Blake J.,124.0,91.0,441.0,582.0,6.0,7.0,7.0,5.0,6.0,0.0,6.0,4.0,,,3.0,1.0,1.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Cervantes I.,Cipolla F.,152.0,89.0,354.0,591.0,2.0,6.0,6.0,7.0,6.0,3.0,6.0,2.0,6.0,1.0,3.0,2.0,1.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Ferrero J.C.,Djokovic N.,38.0,1.0,1035.0,12280.0,3.0,6.0,3.0,6.0,1.0,6.0,,,,,0.0,3.0,0.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Tipsarevic J.,Nalbandian D.,8.0,40.0,3200.0,1015.0,6.0,4.0,7.0,6.0,6.0,2.0,,,,,3.0,0.0,1.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Fognini F.,Llodra M.,68.0,54.0,695.0,810.0,3.0,6.0,6.0,3.0,6.0,4.0,7.0,5.0,,,3.0,1.0,1.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Troicki V.,Granollers M.,34.0,23.0,1190.0,1530.0,7.0,5.0,7.0,6.0,3.0,6.0,2.0,6.0,8.0,6.0,3.0,2.0,1.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Simon G.,Mathieu P.H.,13.0,176.0,2525.0,287.0,6.0,3.0,5.0,4.0,,,,,,,1.0,0.0,1.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Kavcic B.,Petzschner P.,74.0,101.0,657.0,534.0,4.0,6.0,4.0,6.0,2.0,6.0,,,,,0.0,3.0,0.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Stepanek R.,Stakhovsky S.,27.0,85.0,1340.0,603.0,6.0,1.0,1.0,0.0,,,,,,,1.0,0.0,1.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Monaco J.,Mayer L.,14.0,61.0,2115.0,738.0,6.0,4.0,7.0,6.0,7.0,6.0,,,,,3.0,0.0,1.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Isner J.,Falla A.,10.0,73.0,2655.0,664.0,4.0,6.0,7.0,6.0,6.0,3.0,6.0,7.0,5.0,7.0,2.0,3.0,0.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Chardy J.,Volandri F.,57.0,79.0,794.0,630.0,6.0,0.0,6.0,1.0,1.0,0.0,,,,,2.0,0.0,1.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Tursunov D.,Mayer F.,129.0,29.0,430.0,1230.0,6.0,7.0,2.0,6.0,3.0,6.0,,,,,0.0,3.0,0.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Ramos A.,Federer R.,43.0,3.0,935.0,9435.0,1.0,6.0,1.0,6.0,1.0,6.0,,,,,0.0,3.0,0.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Harrison R.,Lu Y.H.,48.0,56.0,871.0,795.0,4.0,6.0,6.0,3.0,6.0,4.0,6.0,2.0,,,3.0,1.0,1.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Andreev I.,Golding O.,93.0,491.0,575.0,68.0,1.0,6.0,7.0,6.0,7.0,6.0,7.0,5.0,,,3.0,1.0,1.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Berdych T.,Gulbis E.,7.0,87.0,4685.0,596.0,6.0,7.0,6.0,7.0,6.0,7.0,,,,,0.0,3.0,0.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Matosevic M.,Malisse X.,72.0,75.0,673.0,651.0,2.0,6.0,2.0,6.0,5.0,7.0,,,,,0.0,3.0,0.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Seppi A.,Istomin D.,26.0,39.0,1390.0,1032.0,7.0,6.0,4.0,6.0,6.0,3.0,3.0,6.0,6.0,8.0,2.0,3.0,0.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Rufin G.,Darcis S.,168.0,63.0,307.0,725.0,6.0,4.0,3.0,6.0,5.0,7.0,6.0,4.0,6.0,4.0,3.0,2.0,1.0
+Wimbledon,25/06/12,Grand Slam,Outdoor,Grass,1st Round,Bolelli S.,Janowicz J.,118.0,136.0,461.0,397.0,6.0,3.0,3.0,6.0,3.0,6.0,3.0,6.0,,,1.0,3.0,0.0
+Wimbledon,26/06/12,Grand Slam,Outdoor,Grass,1st Round,Baker B.,Machado R.,126.0,96.0,438.0,561.0,7.0,6.0,6.0,4.0,6.0,0.0,,,,,3.0,0.0,1.0
+Wimbledon,26/06/12,Grand Slam,Outdoor,Grass,1st Round,Dolgopolov O.,Bogomolov A.,21.0,46.0,1585.0,910.0,6.0,3.0,6.0,4.0,7.0,5.0,,,,,3.0,0.0,1.0
+Wimbledon,26/06/12,Grand Slam,Outdoor,Grass,1st Round,Ebden M.,Paire B.,76.0,55.0,647.0,800.0,1.0,6.0,3.0,6.0,7.0,6.0,3.0,6.0,,,1.0,3.0,0.0
+Wimbledon,26/06/12,Grand Slam,Outdoor,Grass,1st Round,Beck K.,Levine J.,94.0,106.0,568.0,521.0,4.0,6.0,7.0,6.0,3.0,6.0,2.0,6.0,,,1.0,3.0,0.0
+Wimbledon,26/06/12,Grand Slam,Outdoor,Grass,1st Round,Kukushkin M.,Nishikori K.,52.0,20.0,833.0,1600.0,5.0,7.0,3.0,6.0,4.0,6.0,,,,,0.0,3.0,0.0
+Wimbledon,26/06/12,Grand Slam,Outdoor,Grass,1st Round,Fish M.,Ramirez-Hidalgo R.,12.0,82.0,2535.0,622.0,7.0,6.0,7.0,5.0,7.0,6.0,,,,,3.0,0.0,1.0
+Wimbledon,26/06/12,Grand Slam,Outdoor,Grass,1st Round,Zopp J.,Jaziri M.,95.0,78.0,565.0,633.0,6.0,4.0,6.0,4.0,3.0,6.0,4.0,6.0,7.0,9.0,2.0,3.0,0.0
+Wimbledon,26/06/12,Grand Slam,Outdoor,Grass,1st Round,Lopez F.,Nieminen J.,17.0,44.0,1725.0,932.0,6.0,7.0,6.0,3.0,6.0,7.0,4.0,6.0,,,1.0,3.0,0.0
+Wimbledon,26/06/12,Grand Slam,Outdoor,Grass,1st Round,Roger-Vasselin E.,Garcia-Lopez G.,67.0,92.0,697.0,581.0,7.0,6.0,3.0,6.0,6.0,7.0,7.0,5.0,8.0,10.0,2.0,3.0,0.0
+Wimbledon,26/06/12,Grand Slam,Outdoor,Grass,1st Round,Tomic B.,Goffin D.,28.0,70.0,1255.0,688.0,6.0,3.0,3.0,6.0,4.0,6.0,4.0,6.0,,,1.0,3.0,0.0
+Wimbledon,26/06/12,Grand Slam,Outdoor,Grass,1st Round,Lorenzi P.,Mahut N.,86.0,71.0,598.0,684.0,3.0,6.0,7.0,5.0,7.0,6.0,5.0,7.0,2.0,6.0,2.0,3.0,0.0
+Wimbledon,26/06/12,Grand Slam,Outdoor,Grass,1st Round,Kuznetsov An.,Serra F.,151.0,137.0,355.0,392.0,6.0,3.0,6.0,7.0,4.0,6.0,6.0,4.0,4.0,6.0,2.0,3.0,0.0
+Wimbledon,26/06/12,Grand Slam,Outdoor,Grass,1st Round,Kunitsyn I.,Soeda G.,116.0,58.0,468.0,787.0,3.0,6.0,2.0,6.0,1.0,6.0,,,,,0.0,3.0,0.0
+Wimbledon,26/06/12,Grand Slam,Outdoor,Grass,1st Round,Rochus O.,Almagro N.,66.0,11.0,700.0,2605.0,7.0,6.0,6.0,3.0,6.0,7.0,2.0,6.0,4.0,6.0,2.0,3.0,0.0
+Wimbledon,26/06/12,Grand Slam,Outdoor,Grass,1st Round,Dimitrov G.,Anderson K.,69.0,31.0,691.0,1215.0,7.0,5.0,7.0,6.0,6.0,7.0,6.0,3.0,,,3.0,1.0,1.0
+Wimbledon,26/06/12,Grand Slam,Outdoor,Grass,1st Round,Tsonga J.W.,Hewitt L.,6.0,202.0,5230.0,245.0,6.0,3.0,6.0,4.0,6.0,4.0,,,,,3.0,0.0,1.0
+Wimbledon,26/06/12,Grand Slam,Outdoor,Grass,1st Round,Ward J.,Andujar P.,173.0,36.0,297.0,1115.0,4.0,6.0,6.0,0.0,3.0,6.0,6.0,3.0,6.0,3.0,3.0,2.0,1.0
+Wimbledon,26/06/12,Grand Slam,Outdoor,Grass,1st Round,Ungur A.,Lacko L.,81.0,60.0,625.0,763.0,6.0,7.0,1.0,6.0,3.0,6.0,,,,,0.0,3.0,0.0
+Wimbledon,26/06/12,Grand Slam,Outdoor,Grass,1st Round,Nadal R.,Bellucci T.,2.0,80.0,10060.0,627.0,7.0,6.0,6.0,2.0,6.0,3.0,,,,,3.0,0.0,1.0
+Wimbledon,26/06/12,Grand Slam,Outdoor,Grass,1st Round,Kohlschreiber P.,Haas T.,30.0,50.0,1220.0,848.0,3.0,6.0,7.0,6.0,6.0,7.0,7.0,6.0,6.0,2.0,3.0,2.0,1.0
+Wimbledon,26/06/12,Grand Slam,Outdoor,Grass,1st Round,Rosol L.,Dodig I.,100.0,99.0,553.0,555.0,6.0,4.0,3.0,6.0,7.0,6.0,7.0,5.0,,,3.0,1.0,1.0
+Wimbledon,26/06/12,Grand Slam,Outdoor,Grass,1st Round,Montanes A.,Baghdatis M.,90.0,42.0,585.0,945.0,2.0,6.0,4.0,6.0,4.0,6.0,,,,,0.0,3.0,0.0
+Wimbledon,26/06/12,Grand Slam,Outdoor,Grass,1st Round,Cilic M.,Stebe C.M.,18.0,77.0,1655.0,645.0,6.0,4.0,3.0,6.0,6.0,3.0,6.0,2.0,,,3.0,1.0,1.0
+Wimbledon,26/06/12,Grand Slam,Outdoor,Grass,1st Round,Del Potro J.M.,Haase R.,9.0,41.0,3180.0,1010.0,6.0,4.0,3.0,6.0,7.0,6.0,7.0,5.0,,,3.0,1.0,1.0
+Wimbledon,26/06/12,Grand Slam,Outdoor,Grass,1st Round,Bachinger M.,De Schepper K.,110.0,160.0,507.0,331.0,4.0,6.0,2.0,6.0,2.0,6.0,,,,,0.0,3.0,0.0
+Wimbledon,26/06/12,Grand Slam,Outdoor,Grass,1st Round,Querrey S.,Pospisil V.,64.0,104.0,705.0,522.0,7.0,5.0,6.0,7.0,6.0,3.0,6.0,4.0,,,3.0,1.0,1.0
+Wimbledon,26/06/12,Grand Slam,Outdoor,Grass,1st Round,Murray A.,Davydenko N.,4.0,47.0,6980.0,885.0,6.0,1.0,6.0,1.0,6.0,4.0,,,,,3.0,0.0,1.0
+Wimbledon,27/06/12,Grand Slam,Outdoor,Grass,1st Round,Phau B.,Odesnik W.,88.0,135.0,595.0,404.0,6.0,3.0,3.0,6.0,6.0,7.0,6.0,3.0,6.0,4.0,3.0,2.0,1.0
+Wimbledon,27/06/12,Grand Slam,Outdoor,Grass,1st Round,Raonic M.,Giraldo S.,22.0,45.0,1540.0,923.0,6.0,4.0,6.0,4.0,6.0,4.0,,,,,3.0,0.0,1.0
+Wimbledon,27/06/12,Grand Slam,Outdoor,Grass,1st Round,Kubot L.,Ito T.,49.0,65.0,855.0,701.0,7.0,6.0,6.0,3.0,6.0,3.0,,,,,3.0,0.0,1.0
+Wimbledon,27/06/12,Grand Slam,Outdoor,Grass,1st Round,Wawrinka S.,Melzer J.,24.0,35.0,1505.0,1147.0,6.0,3.0,6.0,7.0,6.0,2.0,4.0,6.0,6.0,8.0,2.0,3.0,0.0
+Wimbledon,27/06/12,Grand Slam,Outdoor,Grass,1st Round,Brown D.,Ferrer D.,164.0,5.0,317.0,5250.0,6.0,7.0,4.0,6.0,4.0,6.0,,,,,0.0,3.0,0.0
+Wimbledon,27/06/12,Grand Slam,Outdoor,Grass,1st Round,Karlovic I.,Sela D.,59.0,108.0,786.0,509.0,6.0,4.0,6.0,4.0,7.0,6.0,,,,,3.0,0.0,1.0
+Wimbledon,27/06/12,Grand Slam,Outdoor,Grass,1st Round,Roddick A.,Baker J.,25.0,186.0,1395.0,275.0,7.0,6.0,6.0,4.0,7.0,5.0,,,,,3.0,0.0,1.0
+Wimbledon,27/06/12,Grand Slam,Outdoor,Grass,2nd Round,Chardy J.,Monaco J.,57.0,14.0,794.0,2115.0,2.0,6.0,6.0,3.0,3.0,6.0,6.0,7.0,,,1.0,3.0,0.0
+Wimbledon,27/06/12,Grand Slam,Outdoor,Grass,2nd Round,Mayer F.,Petzschner P.,29.0,101.0,1230.0,534.0,3.0,6.0,3.0,6.0,6.0,4.0,6.0,2.0,6.0,4.0,3.0,2.0,1.0
+Wimbledon,27/06/12,Grand Slam,Outdoor,Grass,2nd Round,Klizan M.,Troicki V.,62.0,34.0,728.0,1190.0,4.0,6.0,6.0,4.0,7.0,5.0,6.0,7.0,4.0,6.0,2.0,3.0,0.0
+Wimbledon,27/06/12,Grand Slam,Outdoor,Grass,2nd Round,Fognini F.,Federer R.,68.0,3.0,695.0,9435.0,1.0,6.0,3.0,6.0,2.0,6.0,,,,,0.0,3.0,0.0
+Wimbledon,27/06/12,Grand Slam,Outdoor,Grass,2nd Round,Tipsarevic J.,Sweeting R.,8.0,130.0,3200.0,413.0,5.0,7.0,7.0,5.0,6.0,4.0,6.0,2.0,,,3.0,1.0,1.0
+Wimbledon,27/06/12,Grand Slam,Outdoor,Grass,2nd Round,Istomin D.,Andreev I.,39.0,93.0,1032.0,575.0,6.0,3.0,7.0,6.0,4.0,6.0,6.0,2.0,,,3.0,1.0,1.0
+Wimbledon,27/06/12,Grand Slam,Outdoor,Grass,2nd Round,Janowicz J.,Gulbis E.,136.0,87.0,397.0,596.0,2.0,6.0,6.0,4.0,3.0,6.0,7.0,6.0,9.0,7.0,3.0,2.0,1.0
+Wimbledon,27/06/12,Grand Slam,Outdoor,Grass,2nd Round,Benneteau J.,Russell M.,32.0,112.0,1210.0,500.0,7.0,6.0,2.0,6.0,6.0,4.0,7.0,5.0,,,3.0,1.0,1.0
+Wimbledon,27/06/12,Grand Slam,Outdoor,Grass,2nd Round,Rufin G.,Almagro N.,168.0,11.0,307.0,2605.0,2.0,6.0,7.0,5.0,2.0,6.0,4.0,6.0,,,1.0,3.0,0.0
+Wimbledon,27/06/12,Grand Slam,Outdoor,Grass,2nd Round,Youzhny M.,Cervantes I.,33.0,152.0,1210.0,354.0,6.0,1.0,6.0,3.0,6.0,4.0,,,,,3.0,0.0,1.0
+Wimbledon,27/06/12,Grand Slam,Outdoor,Grass,2nd Round,Gasquet R.,Bemelmans R.,19.0,131.0,1600.0,411.0,6.0,3.0,6.0,4.0,6.0,4.0,,,,,3.0,0.0,1.0
+Wimbledon,27/06/12,Grand Slam,Outdoor,Grass,2nd Round,Djokovic N.,Harrison R.,1.0,48.0,12280.0,871.0,6.0,4.0,6.0,4.0,6.0,4.0,,,,,3.0,0.0,1.0
+Wimbledon,28/06/12,Grand Slam,Outdoor,Grass,2nd Round,Levine J.,Goffin D.,106.0,70.0,521.0,688.0,6.0,4.0,4.0,6.0,1.0,6.0,3.0,6.0,,,1.0,3.0,0.0
+Wimbledon,28/06/12,Grand Slam,Outdoor,Grass,2nd Round,Simon G.,Malisse X.,13.0,75.0,2525.0,651.0,4.0,6.0,4.0,6.0,6.0,7.0,,,,,0.0,3.0,0.0
+Wimbledon,28/06/12,Grand Slam,Outdoor,Grass,2nd Round,Baker B.,Nieminen J.,126.0,44.0,438.0,932.0,6.0,0.0,6.0,2.0,6.0,4.0,,,,,3.0,0.0,1.0
+Wimbledon,28/06/12,Grand Slam,Outdoor,Grass,2nd Round,Serra F.,Nishikori K.,137.0,20.0,392.0,1600.0,3.0,6.0,5.0,7.0,2.0,6.0,,,,,0.0,3.0,0.0
+Wimbledon,28/06/12,Grand Slam,Outdoor,Grass,2nd Round,Verdasco F.,Zemlja G.,16.0,120.0,1765.0,459.0,7.0,6.0,7.0,6.0,3.0,6.0,6.0,3.0,,,3.0,1.0,1.0
+Wimbledon,28/06/12,Grand Slam,Outdoor,Grass,2nd Round,Ferrer D.,De Schepper K.,5.0,160.0,5250.0,331.0,7.0,6.0,6.0,2.0,6.0,4.0,,,,,3.0,0.0,1.0
+Wimbledon,28/06/12,Grand Slam,Outdoor,Grass,2nd Round,Melzer J.,Lacko L.,35.0,60.0,1147.0,763.0,4.0,6.0,7.0,6.0,6.0,3.0,3.0,6.0,4.0,6.0,2.0,3.0,0.0
+Wimbledon,28/06/12,Grand Slam,Outdoor,Grass,2nd Round,Stepanek R.,Becker B.,27.0,124.0,1340.0,441.0,6.0,2.0,7.0,6.0,6.0,3.0,,,,,3.0,0.0,1.0
+Wimbledon,28/06/12,Grand Slam,Outdoor,Grass,2nd Round,Mahut N.,Falla A.,71.0,73.0,684.0,664.0,4.0,6.0,3.0,6.0,6.0,4.0,6.0,4.0,5.0,7.0,2.0,3.0,0.0
+Wimbledon,28/06/12,Grand Slam,Outdoor,Grass,2nd Round,Murray A.,Karlovic I.,4.0,59.0,6980.0,786.0,7.0,5.0,6.0,7.0,6.0,2.0,7.0,6.0,,,3.0,1.0,1.0
+Wimbledon,28/06/12,Grand Slam,Outdoor,Grass,2nd Round,Ward J.,Fish M.,173.0,12.0,297.0,2535.0,3.0,6.0,7.0,5.0,4.0,6.0,7.0,6.0,3.0,6.0,2.0,3.0,0.0
+Wimbledon,28/06/12,Grand Slam,Outdoor,Grass,2nd Round,Paire B.,Dolgopolov O.,55.0,21.0,800.0,1585.0,7.0,6.0,6.0,4.0,6.0,4.0,,,,,3.0,0.0,1.0
+Wimbledon,28/06/12,Grand Slam,Outdoor,Grass,2nd Round,Cilic M.,Kubot L.,18.0,49.0,1655.0,855.0,7.0,6.0,6.0,2.0,6.0,1.0,,,,,3.0,0.0,1.0
+Wimbledon,28/06/12,Grand Slam,Outdoor,Grass,2nd Round,Roddick A.,Phau B.,25.0,88.0,1395.0,595.0,6.0,3.0,7.0,6.0,6.0,3.0,,,,,3.0,0.0,1.0
+Wimbledon,28/06/12,Grand Slam,Outdoor,Grass,2nd Round,Kohlschreiber P.,Jaziri M.,30.0,78.0,1220.0,633.0,6.0,1.0,7.0,6.0,6.0,1.0,,,,,3.0,0.0,1.0
+Wimbledon,28/06/12,Grand Slam,Outdoor,Grass,2nd Round,Tsonga J.W.,Garcia-Lopez G.,6.0,92.0,5230.0,581.0,6.0,7.0,6.0,4.0,6.0,1.0,6.0,3.0,,,3.0,1.0,1.0
+Wimbledon,28/06/12,Grand Slam,Outdoor,Grass,2nd Round,Soeda G.,Del Potro J.M.,58.0,9.0,787.0,3180.0,2.0,6.0,3.0,6.0,6.0,1.0,4.0,6.0,,,1.0,3.0,0.0
+Wimbledon,28/06/12,Grand Slam,Outdoor,Grass,2nd Round,Baghdatis M.,Dimitrov G.,42.0,69.0,945.0,691.0,7.0,5.0,4.0,1.0,,,,,,,1.0,0.0,1.0
+Wimbledon,28/06/12,Grand Slam,Outdoor,Grass,2nd Round,Nadal R.,Rosol L.,2.0,100.0,10060.0,553.0,7.0,6.0,4.0,6.0,4.0,6.0,6.0,2.0,4.0,6.0,2.0,3.0,0.0
+Wimbledon,29/06/12,Grand Slam,Outdoor,Grass,2nd Round,Raonic M.,Querrey S.,22.0,64.0,1540.0,705.0,7.0,6.0,6.0,7.0,6.0,7.0,4.0,6.0,,,1.0,3.0,0.0
+Wimbledon,29/06/12,Grand Slam,Outdoor,Grass,3rd Round,Troicki V.,Monaco J.,34.0,14.0,1190.0,2115.0,7.0,5.0,7.0,5.0,6.0,3.0,,,,,3.0,0.0,1.0
+Wimbledon,29/06/12,Grand Slam,Outdoor,Grass,3rd Round,Djokovic N.,Stepanek R.,1.0,27.0,12280.0,1340.0,4.0,6.0,6.0,2.0,6.0,2.0,6.0,2.0,,,3.0,1.0,1.0
+Wimbledon,29/06/12,Grand Slam,Outdoor,Grass,3rd Round,Verdasco F.,Malisse X.,16.0,75.0,1765.0,651.0,6.0,1.0,6.0,7.0,1.0,6.0,6.0,4.0,3.0,6.0,2.0,3.0,0.0
+Wimbledon,29/06/12,Grand Slam,Outdoor,Grass,3rd Round,Falla A.,Istomin D.,73.0,39.0,664.0,1032.0,3.0,6.0,4.0,6.0,6.0,3.0,6.0,7.0,,,1.0,3.0,0.0
+Wimbledon,29/06/12,Grand Slam,Outdoor,Grass,3rd Round,Janowicz J.,Mayer F.,136.0,29.0,397.0,1230.0,6.0,7.0,6.0,3.0,6.0,2.0,3.0,6.0,5.0,7.0,2.0,3.0,0.0
+Wimbledon,29/06/12,Grand Slam,Outdoor,Grass,3rd Round,Federer R.,Benneteau J.,3.0,32.0,9435.0,1210.0,4.0,6.0,6.0,7.0,6.0,2.0,7.0,6.0,6.0,1.0,3.0,2.0,1.0
+Wimbledon,29/06/12,Grand Slam,Outdoor,Grass,3rd Round,Youzhny M.,Tipsarevic J.,33.0,8.0,1210.0,3200.0,6.0,3.0,6.0,4.0,3.0,6.0,6.0,3.0,,,3.0,1.0,1.0
+Wimbledon,29/06/12,Grand Slam,Outdoor,Grass,3rd Round,Almagro N.,Gasquet R.,11.0,19.0,2605.0,1600.0,3.0,6.0,4.0,6.0,4.0,6.0,,,,,0.0,3.0,0.0
+Wimbledon,30/06/12,Grand Slam,Outdoor,Grass,3rd Round,Baker B.,Paire B.,126.0,55.0,438.0,800.0,6.0,4.0,4.0,6.0,6.0,1.0,6.0,3.0,,,3.0,1.0,1.0
+Wimbledon,30/06/12,Grand Slam,Outdoor,Grass,3rd Round,Kohlschreiber P.,Rosol L.,30.0,100.0,1220.0,553.0,6.0,2.0,6.0,3.0,7.0,6.0,,,,,3.0,0.0,1.0
+Wimbledon,30/06/12,Grand Slam,Outdoor,Grass,3rd Round,Del Potro J.M.,Nishikori K.,9.0,20.0,3180.0,1600.0,6.0,3.0,7.0,6.0,6.0,1.0,,,,,3.0,0.0,1.0
+Wimbledon,30/06/12,Grand Slam,Outdoor,Grass,3rd Round,Goffin D.,Fish M.,70.0,12.0,688.0,2535.0,3.0,6.0,6.0,7.0,6.0,7.0,,,,,0.0,3.0,0.0
+Wimbledon,30/06/12,Grand Slam,Outdoor,Grass,3rd Round,Querrey S.,Cilic M.,64.0,18.0,705.0,1655.0,6.0,7.0,4.0,6.0,7.0,6.0,7.0,6.0,15.0,17.0,2.0,3.0,0.0
+Wimbledon,30/06/12,Grand Slam,Outdoor,Grass,3rd Round,Ferrer D.,Roddick A.,5.0,25.0,5250.0,1395.0,2.0,6.0,7.0,6.0,6.0,4.0,6.0,3.0,,,3.0,1.0,1.0
+Wimbledon,30/06/12,Grand Slam,Outdoor,Grass,3rd Round,Tsonga J.W.,Lacko L.,6.0,60.0,5230.0,763.0,6.0,4.0,6.0,3.0,6.0,3.0,,,,,3.0,0.0,1.0
+Wimbledon,30/06/12,Grand Slam,Outdoor,Grass,3rd Round,Murray A.,Baghdatis M.,4.0,42.0,6980.0,945.0,7.0,5.0,3.0,6.0,7.0,5.0,6.0,1.0,,,3.0,1.0,1.0
+Wimbledon,02/07/12,Grand Slam,Outdoor,Grass,4th Round,Youzhny M.,Istomin D.,33.0,39.0,1210.0,1032.0,6.0,3.0,5.0,7.0,6.0,4.0,6.0,7.0,7.0,5.0,3.0,2.0,1.0
+Wimbledon,02/07/12,Grand Slam,Outdoor,Grass,4th Round,Federer R.,Malisse X.,3.0,75.0,9435.0,651.0,7.0,6.0,6.0,1.0,4.0,6.0,6.0,3.0,,,3.0,1.0,1.0
+Wimbledon,02/07/12,Grand Slam,Outdoor,Grass,4th Round,Troicki V.,Djokovic N.,34.0,1.0,1190.0,12280.0,3.0,6.0,1.0,6.0,3.0,6.0,,,,,0.0,3.0,0.0
+Wimbledon,03/07/12,Grand Slam,Outdoor,Grass,4th Round,Baker B.,Kohlschreiber P.,126.0,30.0,438.0,1220.0,1.0,6.0,6.0,7.0,3.0,6.0,,,,,0.0,3.0,0.0
+Wimbledon,03/07/12,Grand Slam,Outdoor,Grass,4th Round,Gasquet R.,Mayer F.,19.0,29.0,1600.0,1230.0,3.0,6.0,1.0,6.0,6.0,3.0,2.0,6.0,,,1.0,3.0,0.0
+Wimbledon,03/07/12,Grand Slam,Outdoor,Grass,4th Round,Tsonga J.W.,Fish M.,6.0,12.0,5230.0,2535.0,4.0,6.0,7.0,6.0,6.0,4.0,6.0,4.0,,,3.0,1.0,1.0
+Wimbledon,03/07/12,Grand Slam,Outdoor,Grass,4th Round,Cilic M.,Murray A.,18.0,4.0,1655.0,6980.0,5.0,7.0,2.0,6.0,3.0,6.0,,,,,0.0,3.0,0.0
+Wimbledon,03/07/12,Grand Slam,Outdoor,Grass,4th Round,Ferrer D.,Del Potro J.M.,5.0,9.0,5250.0,3180.0,6.0,3.0,6.0,2.0,6.0,3.0,,,,,3.0,0.0,1.0
+Wimbledon,04/07/12,Grand Slam,Outdoor,Grass,Quarterfinals,Mayer F.,Djokovic N.,29.0,1.0,1230.0,12280.0,4.0,6.0,1.0,6.0,4.0,6.0,,,,,0.0,3.0,0.0
+Wimbledon,04/07/12,Grand Slam,Outdoor,Grass,Quarterfinals,Youzhny M.,Federer R.,33.0,3.0,1210.0,9435.0,1.0,6.0,2.0,6.0,2.0,6.0,,,,,0.0,3.0,0.0
+Wimbledon,04/07/12,Grand Slam,Outdoor,Grass,Quarterfinals,Ferrer D.,Murray A.,5.0,4.0,5250.0,6980.0,7.0,6.0,6.0,7.0,4.0,6.0,6.0,7.0,,,1.0,3.0,0.0
+Wimbledon,04/07/12,Grand Slam,Outdoor,Grass,Quarterfinals,Kohlschreiber P.,Tsonga J.W.,30.0,6.0,1220.0,5230.0,6.0,7.0,6.0,4.0,6.0,7.0,2.0,6.0,,,1.0,3.0,0.0
+Wimbledon,06/07/12,Grand Slam,Outdoor,Grass,Semifinals,Djokovic N.,Federer R.,1.0,3.0,12280.0,9435.0,3.0,6.0,6.0,3.0,4.0,6.0,3.0,6.0,,,1.0,3.0,0.0
+Wimbledon,06/07/12,Grand Slam,Outdoor,Grass,Semifinals,Murray A.,Tsonga J.W.,4.0,6.0,6980.0,5230.0,6.0,3.0,6.0,4.0,3.0,6.0,7.0,5.0,,,3.0,1.0,1.0
+Wimbledon,08/07/12,Grand Slam,Outdoor,Grass,The Final,Murray A.,Federer R.,4.0,3.0,6980.0,9435.0,6.0,4.0,5.0,7.0,3.0,6.0,4.0,6.0,,,1.0,3.0,0.0
